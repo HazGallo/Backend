@@ -10,6 +10,7 @@ const sqlConfig = {
   password: "Readnock123",
   database: "EduLearn",
   server: "HAZLEYPC",
+  port: 1433,
   pool: {
     max: 10,
     min: 0,
